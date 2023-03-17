@@ -416,6 +416,8 @@ content-kaufman */
 }
 
 .footer__links-social {
+  display: flex;
+  flex-direction: column;
   line-height: 30px;
   font-size: 18px;
   font-weight: 400;
