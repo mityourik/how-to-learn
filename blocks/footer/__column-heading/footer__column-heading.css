@@ -1,0 +1,8 @@
+.footer__column-heading {
+    display: flex;
+    flex-direction: column;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+  }
