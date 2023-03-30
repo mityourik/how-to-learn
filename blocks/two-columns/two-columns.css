@@ -2,6 +2,6 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    min-width: 784px;
-    width: 80%; 
+    min-width: 80%;
+    width: 80%;
   }

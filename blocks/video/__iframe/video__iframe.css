@@ -1,12 +1,16 @@
 .video__iframe {
+    width: 515px;
+    height: 316px;
     margin-right: 20px;
     border: none;
+    border-radius: 1%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
     opacity: 1;
-    animation: fade 0.3s ease-in-out;
+    transition: opacity 0.3s ease-in-out;
 }
 
 .video__iframe:hover {
-    opacity: 0.8;
+    opacity: 0.6;
 }
 
 .video__iframe:last-child {

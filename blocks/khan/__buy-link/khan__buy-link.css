@@ -1,14 +1,15 @@
 .khan__buy-link {
+    display: flex;
     margin: 0;
+    padding: 0;
     line-height: 42px;
     font-size: 30px;
     font-weight: 400;
     text-decoration: none;
     color: #2f80ed;
     opacity: 1;
-    animation: fade 0.3s ease-in-out;
 }
 
 .khan__buy-link:hover {
-    opacity: 0.8;
+    animation: fade 1s ease infinite;
 }
